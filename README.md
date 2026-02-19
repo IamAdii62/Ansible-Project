@@ -139,17 +139,14 @@ Open browser:
 
 ```
 http://<EC2-Public-IP>
-![alt text](image.png)
 ```
 
 You should see:
 
 ```
 Role Based LAMP Deployment 🚀
-![Uploading image.png…]()
-
 ```
-
+![alt text](image-1.png)
 ---
 
 ## 🔥 Key DevOps Concepts Implemented
