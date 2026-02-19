@@ -145,6 +145,8 @@ You should see:
 
 ```
 Role Based LAMP Deployment 🚀
+![Uploading image.png…]()
+
 ```
 
 ---
